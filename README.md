@@ -5,6 +5,10 @@ Proposal Paper: https://docs.google.com/document/d/1pmQvw8RusE966cHGzmYOmGEdIzaW
 <br>
 <p align = "center">(Refer to the paper above for academic insight) </p>
 
+![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/37d6e3cdb3ba0b4b3b460ff86bfb6aea674c9a03/Task3_GoogleHomePageReplica/Screenshot%202026-03-15%20003300.png)
+![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/37d6e3cdb3ba0b4b3b460ff86bfb6aea674c9a03/Task3_GoogleHomePageReplica/Screenshot%202026-03-15%20003300.png)
+![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/37d6e3cdb3ba0b4b3b460ff86bfb6aea674c9a03/Task3_GoogleHomePageReplica/Screenshot%202026-03-15%20003300.png)
+
 ## How to install, you may ask?
 ### I. Clone the Repository 
 ```git clone https://github.com/YOUR_USERNAME/AnchorQR-AI.git```
