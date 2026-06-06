@@ -22,7 +22,7 @@ from utils.recommendation import (
     generate_recommendation
 )
 
-st.title("QRShieldAI")
+st.title("anchorQR - AI")
 
 uploaded_file = st.file_uploader(
     "Upload QR Code",
