@@ -1,0 +1,6 @@
+streamlit
+pyzbar
+Pillow
+requests
+beautifulsoup4
+opencv-python
