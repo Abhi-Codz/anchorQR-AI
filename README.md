@@ -1,13 +1,13 @@
 # <p align="center">anchorQR - AI</p>
-A storage repository about a basic system, demonstrating phishing based cyber issues, particularly in regards to QR Scanning. This assignment does well to furnish a simulation of analyzing, and mitigating the cyber threats that may reside within a QR Code, using a Multi Agentic Architecture - Based on the papers: "Gone Quishing" and "AgentDojo".
+A storage repository about a basic system, demonstrating phishing based cyber issues, particularly in regards to QR Scanning. This assignment does well to furnish a simulation of analyzing, and mitigating the cyber threats that may reside within a QR Code, using a Multi Agentic Architecture - Based on the papers: "Gone Quishing" and "AgentDojo". Assigned midst University's Summer-School Workshop, titled <b> Applied Cyber Security with Multi-Agentic AI </b>. 
 
 Proposal Paper: https://docs.google.com/document/d/1pmQvw8RusE966cHGzmYOmGEdIzaWZ4hsaxT9htblQC0/edit?usp=sharing
 <br>
 <p align = "center">(Refer to the paper above for academic insight) </p>
 
-![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/37d6e3cdb3ba0b4b3b460ff86bfb6aea674c9a03/Task3_GoogleHomePageReplica/Screenshot%202026-03-15%20003300.png)
-![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/37d6e3cdb3ba0b4b3b460ff86bfb6aea674c9a03/Task3_GoogleHomePageReplica/Screenshot%202026-03-15%20003300.png)
-![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/37d6e3cdb3ba0b4b3b460ff86bfb6aea674c9a03/Task3_GoogleHomePageReplica/Screenshot%202026-03-15%20003300.png)
+![](https://github.com/Abhi-Codz/anchorQR-AI/blob/ff03a0c61e7abb1a20571b9c5a473de617aa581f/screenshots/Screenshot%202026-06-07%20010430.png)
+![](https://github.com/Abhi-Codz/anchorQR-AI/blob/ff03a0c61e7abb1a20571b9c5a473de617aa581f/screenshots/Screenshot%202026-06-07%20010446.png)
+![]([https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/37d6e3cdb3ba0b4b3b460ff86bfb6aea674c9a03/Task3_GoogleHomePageReplica/Screenshot%202026-03-15%20003300.png](https://github.com/Abhi-Codz/anchorQR-AI/blob/ff03a0c61e7abb1a20571b9c5a473de617aa581f/screenshots/Screenshot%202026-06-07%20010518.png))
 
 ## How to install, you may ask?
 ### I. Clone the Repository 
